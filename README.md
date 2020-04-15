@@ -111,12 +111,12 @@ Varios procesos que compiten por e uso de la colección
 
 Collections.sort(lista)
 
-	- Recibe una colección, modifica la colección recibida
-	- Los elementos deben implementar Comparable
+	Recibe una colección, modifica la colección recibida
+	Los elementos deben implementar Comparable
 	
 Collections.sort(lista, comparador)
 
-	- Ordena según el orden inducido por el comparador
+	Ordena según el orden inducido por el comparador
 
 ### Desordenación
 
